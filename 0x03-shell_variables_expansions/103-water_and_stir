@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($WATER|$STIR)) 
+printf "%/n" $(( $((5#$ $((echo WATER/$STIR)) 
